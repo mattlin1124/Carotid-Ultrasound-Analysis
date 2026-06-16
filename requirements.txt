@@ -1,0 +1,9 @@
+streamlit
+numpy
+matplotlib
+pydicom
+opencv-python
+scikit-image
+scipy
+streamlit-cropper
+pillow
